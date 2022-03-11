@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>网络 on Zebulon&#39;s blog</title>
+    <link>https://zebulon2020.github.io/tags/%E7%BD%91%E7%BB%9C/</link>
+    <description>Recent content in 网络 on Zebulon&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 01 Mar 2022 13:11:25 +0800</lastBuildDate><atom:link href="https://zebulon2020.github.io/tags/%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TCP协议的三次握手和四次挥手</title>
+      <link>https://zebulon2020.github.io/post/20220301tcp%E5%8D%8F%E8%AE%AE%E7%9A%84%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%92%8C%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B/</link>
+      <pubDate>Tue, 01 Mar 2022 13:11:25 +0800</pubDate>
+      
+      <guid>https://zebulon2020.github.io/post/20220301tcp%E5%8D%8F%E8%AE%AE%E7%9A%84%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%92%8C%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B/</guid>
+      <description>&lt;p&gt;TCP协议的三次握手和四次挥手&lt;/p&gt;
+&lt;p&gt;我们常说“TCP协议是面向连接的，而UDP是面向无连接的”，这是什么意思呢？&lt;/p&gt;
+&lt;p&gt;TCP协议是有连接的，有连接的意思是开始传输实际数据之前TCP的客户端和服务器端必须通过三次握手建立连接，会话结束之后也要结束连接。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
