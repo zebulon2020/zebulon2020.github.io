@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zebulon&#39;s blog</title>
-    <link>https://zebulon2020.github.io/</link>
-    <description>Recent content on Zebulon&#39;s blog</description>
+    <title>编程语言 on Zebulon&#39;s blog</title>
+    <link>https://zebulon2020.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</link>
+    <description>Recent content in 编程语言 on Zebulon&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 11 Mar 2022 15:11:00 +0800</lastBuildDate><atom:link href="https://zebulon2020.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>我的第一篇博客</title>
-      <link>https://zebulon2020.github.io/post/first/</link>
-      <pubDate>Fri, 11 Mar 2022 15:11:00 +0800</pubDate>
-      
-      <guid>https://zebulon2020.github.io/post/first/</guid>
-      <description>测试文件</description>
-    </item>
-    
+    <lastBuildDate>Wed, 29 Jul 2020 22:49:01 +0800</lastBuildDate><atom:link href="https://zebulon2020.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>跳出while循环的三种方法（以Python代码为例）</title>
       <link>https://zebulon2020.github.io/post/2020-07-29%E8%B7%B3%E5%87%BAwhile%E5%BE%AA%E7%8E%AF%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95/</link>
@@ -25,15 +16,6 @@
       <description>跳出while循环的三种方法（以Python代码为例） 在《Python编程从入门到实践》书中有这么一道习题： 比萨配料: 编写一个程序，提示用户输入一系列的比萨配料，并在用户输入’quit’时结束循环，说我们会在比萨中添加这种配料。
 这道题主要考察while循环。
 方法1: break语句 # 方法1 pizza = [] while True: message = input(&amp;#34;你要加入什么佐料？&amp;#34;) if message == &amp;#39;quit&amp;#39;: break pizza.append(message) print(&amp;#34;已加入&amp;#34; + message) print(pizza) 方法2: 标志位 # 方法2 active = True pizza = [] while active: message = input(&amp;#34;你要加入什么佐料？&amp;#34;) if message == &amp;#39;quit&amp;#39;: active = False else: pizza.append(message) print(&amp;#34;已加入&amp;#34; + message) print(pizza) 方法3: 判断不结束 # 方法3 message = &amp;#34;&amp;#34; pizza = [] while message != &amp;#39;quit&amp;#39;: message = input(&amp;#34;你要加入什么佐料？&amp;#34;) if message !</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zebulon2020.github.io/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zebulon2020.github.io/readme/</guid>
-      <description>hello world!</description>
     </item>
     
   </channel>
